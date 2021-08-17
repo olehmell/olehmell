@@ -1,4 +1,8 @@
-I am a Bachelor of Computer Engineering and start education as the master of Management of cybersecurity. Former Lead Developer Student Club of the National Aviation University of Ukraine, and a Full Stack JS developer.
+My name is Oleh and I'm Ful Stack Dev on blockchain startup [Subsocial](https://subsocial.network).
+
+I'm a bachelor of Computer engineering, finished the Computer systems and networks education program. Now I'm studying for a master's degree in a field of Cybersecurity.
+
+Also I'm Former Lead Developer Student Club of the National Aviation University of Ukraine, and a Full Stack JS developer.
 
 Now I am developing a [Subsocial](https://subsocial.network) (open platform for decentralized social networks and marketplaces on Substrate blockchain framework) and [SubId](https://sub.id) (wallet info for your favorite Dotsama cryptocurrencies).
 
@@ -6,20 +10,5 @@ I also manage and develop the "Digital University" system at my university and o
 
 I love mentoring young programmers and sharing my experience and learning from them too.
 
-<!--
-**olehmell/olehmell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Oleh Mell's GitHub stats](https://github-readme-stats.vercel.app/api?username=olehmell&show_icons=true&count_private=true&hide_title=true)](https://github.com/olehmell/olehmell)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olehmell&layout=compact)](https://github.com/olehmell?tab=repositories)
+[![Oleh Mell's GitHub stats](https://github-readme-stats.vercel.app/api?username=olehmell&theme=dark&show_icons=true&count_private=true&hide_title=true)](https://github.com/olehmell/olehmell)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olehmell&layout=compact&theme=dark)](https://github.com/olehmell?tab=repositories)
