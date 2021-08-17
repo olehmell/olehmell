@@ -1,6 +1,8 @@
-I am a 4th-year student specializing in computer engineering, Lead Developer Student Club of the National Aviation University of Ukraine, and a Full Stack JS developer.
+I am a Bachelor of Computer Engineering and start education as the master of Management of cybersecurity. Former Lead Developer Student Club of the National Aviation University of Ukraine, and a Full Stack JS developer.
 
-Now I am developing a [Subsocial](https://subsocial.network) (open platform for decentralized social networks and marketplaces on Substrate blockchain framework), I also manage and develop the "Digital University" system at my university and other projects of interest to me (all can be viewed on GitHub). I like looking for solutions and creating new products, but I hate writing HTML and CSS :)
+Now I am developing a [Subsocial](https://subsocial.network) (open platform for decentralized social networks and marketplaces on Substrate blockchain framework) and [SubId](https://sub.id) (wallet info for your favorite Dotsama cryptocurrencies).
+
+I also manage and develop the "Digital University" system at my university and other projects of interest to me (all can be viewed on GitHub). I like looking for solutions and creating new products, but I hate writing HTML and CSS :)
 
 I love mentoring young programmers and sharing my experience and learning from them too.
 
