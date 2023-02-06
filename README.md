@@ -10,5 +10,5 @@ I also manage and develop the "Digital University" system at my university and o
 
 I love mentoring young programmers and sharing my experience and learning from them too.
 [![Oleh Mell's GitHub stats](https://github-readme-stats.vercel.app/api?username=olehmell&theme=dark&show_icons=true&count_private=true&hide_title=true)](https://github.com/olehmell/olehmell)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olehmell&layout=compact&theme=dark)](https://github.com/olehmell?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawntabrizi&layout=compact&theme=ligth)](https://github.com/olehmell?tab=repositories)
 
