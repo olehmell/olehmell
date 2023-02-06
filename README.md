@@ -9,6 +9,6 @@ Now I am developing a [Subsocial](https://subsocial.network) (open platform for 
 I also manage and develop the "Digital University" system at my university and other projects of interest to me (all can be viewed on GitHub). I like looking for solutions and creating new products, but I hate writing HTML and CSS :)
 
 I love mentoring young programmers and sharing my experience and learning from them too.
-[![Oleh Mell's GitHub stats](https://github-readme-stats.vercel.app/api?username=olehmell&theme=dark&show_icons=true&count_private=true&hide_title=true)](https://github.com/olehmell/olehmell)
+[![Oleh Mell's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawntabrizi&theme=ligth&show_icons=true&count_private=true&hide_title=true)](https://github.com/olehmell/olehmell)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawntabrizi&layout=compact&theme=ligth)](https://github.com/olehmell?tab=repositories)
 
