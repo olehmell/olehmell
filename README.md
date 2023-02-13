@@ -1,14 +1,11 @@
-My name is Oleh and I'm Ful Stack Dev on blockchain startup [Subsocial](https://subsocial.network).
+My name is Oleh and I build a [Subsocial](https://subsocial.network) - web3 social protocol in Polkadot ecosystem.
 
-I'm a bachelor of Computer engineering, finished the Computer systems and networks education program. Now I'm studying for a master's degree in a field of Cybersecurity.
+I'm a master of Cybersecurity and bachelor of Computer engineering, Former Lead Developer Student Club of the National Aviation University of Ukraine.
 
-Also I'm Former Lead Developer Student Club of the National Aviation University of Ukraine, and a Full Stack JS developer.
+I am a blockchain enthusiast and want to become a blockchain scientist in the future. I like looking for solutions and creating new products, mentoring young programmers and sharing my experience.
 
-Now I am developing a [Subsocial](https://subsocial.network) (open platform for decentralized social networks and marketplaces on Substrate blockchain framework) and [SubId](https://sub.id) (wallet info for your favorite Dotsama cryptocurrencies).
+Also I am adviser in University digital student team that try to add digitalisation in universities
 
-I also manage and develop the "Digital University" system at my university and other projects of interest to me (all can be viewed on GitHub). I like looking for solutions and creating new products, but I hate writing HTML and CSS :)
-
-I love mentoring young programmers and sharing my experience and learning from them too.
 [![Oleh Mell's GitHub stats](https://github-readme-stats.vercel.app/api?username=olehmell&theme=ligth&show_icons=true&count_private=true&hide_title=true)](https://github.com/olehmell/olehmell)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olehmell&layout=compact&theme=ligth)](https://github.com/olehmell?tab=repositories)
 
